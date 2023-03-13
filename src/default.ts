@@ -11,7 +11,9 @@ export const defaultMessage = `
 
 - 你可以使用OpenAI账号获取API Key，[查询API Key链接](https://platform.openai.com/account/api-keys)
 
-- 点右下角⚙输入你的key
+- 点右下角⚙输入你的key。
+
+- API Key仅缓存在浏览器中，镜像站不保存API Key，请妥善保管好你的API Key，以免影响使用。
 
 - 如需**专属镜像站和机器人**请联系我们:[微信](https://pic.hhao.cc/imgs/2023/03/6c4f8dab0ac56e62.jpg) | [邮箱](mailto:wwang.pw@gmail.com)
 
