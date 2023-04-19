@@ -66,7 +66,7 @@ export default function Header() {
                   快如闪电
                 </span>
       
-                </a>
+       
               </>
             }
           >
