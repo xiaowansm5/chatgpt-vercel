@@ -25,7 +25,7 @@ export const defaultEnv = {
 
 - 如需**专属镜像站和机器人**请联系我们: [微信](https://pic.hhao.cc/imgs/2023/03/6c4f8dab0ac56e62.jpg) | [邮箱](mailto:wwang.pw@gmail.com) | [商店](https://enna.eu.org) 
 
-- 点击每条消息前的头像，可以锁定对话，作为角色设定。[查看更多使用技巧](https://github.com/ourongxing/chatgpt-vercel#使用技巧)。
+- 点击每条消息前的头像，可以锁定对话，作为角色设定。
 
 - 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息。
 
