@@ -59,7 +59,7 @@ export default defineConfig({
       manifest: {
         name: "时光AI",
         lang: "zh-cn",
-        short_name: "ChatGPT",
+        short_name: "时光AI",
         background_color: "#f6f8fa",
         icons: [
           {
