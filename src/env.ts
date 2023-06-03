@@ -23,7 +23,7 @@ export const defaultEnv = {
 
 - 你可以使用OpenAI账号获取API Key，[查询API Key链接](https://platform.openai.com/account/api-keys) ，点右下角⚙输入你的API key。 
 
-- 如需**专属镜像站和机器人**请联系我们: [微信](https://pic.hhao.cc/imgs/2023/03/6c4f8dab0ac56e62.jpg) | [邮箱](mailto:wwang.pw@gmail.com) | [商店](https://enna.eu.org) 
+- 如需**专属镜像站和机器人**请联系我们: [微信](https://cdn.staticaly.com/gh/xiaowansm5/img@master/blog/WechatIMG269.36bf1vq4dhk0.webp) | [邮箱](mailto:wwang.pw@gmail.com) | [商店](https://enna.eu.org) 
 
 - 点击每条消息前的头像，可以锁定对话，作为角色设定。
 
